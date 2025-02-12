@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com auditoria de processos.
 - 🌱 Estou estudando HTML, CSS e JavaScript.
-- 💬 Me pergunte sobre qualquer assunto envolvendo tecnologia e informação.
+- 💬 Me pergunte sobre qualquer assunto envolvendo tecnologia.
 
 <div> 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
