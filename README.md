@@ -1,7 +1,7 @@
 ## Olá Pessoal, Eu me Chamo Rubem Coutinho 👋
 
 - 🔭 Atualmente trabalho com auditoria de processos.
-- 🌱 Estou estudando HTML, CSS e JavaScript.
+- 🌱 Estou estudando HTML, CSS, Java Script, Node.js, React e MongoDB
 - 💬 Me pergunte sobre qualquer assunto envolvendo tecnologia.
 
 <div> 
